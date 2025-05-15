@@ -10,8 +10,8 @@ from tkinter import ttk
 from PIL import Image, ImageTk
 
 # ======================= CONFIG ==========================
-BOT_TOKEN = '7836305921:AAGrAvXVFgnCb4-Gd93E1nadz1dFFAl9rtA'
-CHAT_ID = '1728706795'
+BOT_TOKEN = 'your bot token here'
+CHAT_ID = 'here chat id here'
 
 YOLO_CFG = 'yolov4.cfg'
 YOLO_WEIGHTS = 'yolov4.weights'
